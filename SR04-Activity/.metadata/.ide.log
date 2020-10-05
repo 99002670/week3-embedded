@@ -1,0 +1,6 @@
+2020-10-06 00:14:20,044 [INFO] Activator:176 - 
+
+
+2020-10-06 00:14:20,047 [INFO] Activator:177 - !SESSION log4j initialized
+2020-10-06 00:14:52,535 [ERROR] ApiDbMcu:1418 - Can't use Application install path:
+2020-10-06 00:14:52,539 [WARN] RulesReader:54 - Compatibility file://mcu/compatibility.xml not found
